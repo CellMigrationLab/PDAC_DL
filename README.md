@@ -16,10 +16,12 @@ Associated with the publication "Quantitative analysis of pancreatic cancer cell
 | Model 5    | Brightfield | [Performance Metrics] | StarDist model capable of segmenting mononucleated cells on endothelial cells | [Link] | [StarDist 2D Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#segmentation-networks) |
 | Model 6    | Fluorescence     | [Performance Metrics] | StarDist model capable of segmenting endothelial nuclei while ignoring cancer cells | [Link] | [StarDist 2D Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#segmentation-networks) |
 | ...        | ...            | ...  | ...         | ...                             | ...                   | ...                    |
-| Model 12   | [Specify Modality] | [Performance Metrics] | Purpose of Model 12 | [Link] | [Notebook](URL_for_Notebook_12) |
+
 
 
 # Deep learning artificial labeling models
 ------------------
 | Model Name | Performance | Purpose and Associated Figure | Training Dataset Link | Training Notebook Link |
 |------------|-------------|-------------------------------|-----------------------|------------------------|
+| Model 1    | [Performance Metrics] | BF to Dapi | [Link] | [Pix2pix Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#image-to-image-translation-networks) |
+| Model 2    | [Performance Metrics] | BF to PECAM | [Link] | [Pix2pix Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#image-to-image-translation-networks) |
