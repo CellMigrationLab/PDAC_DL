@@ -15,7 +15,7 @@ Associated with the publication "Quantitative analysis of pancreatic cancer cell
 | Model 4    | Brightfield | [Performance Metrics] | StarDist model capable of segmenting neutrophils on endothelial cells | [Link](URL_for_Dataset_4) | [Notebook](URL_for_Notebook_4) |
 | Model 5    | Brightfield | [Performance Metrics] | StarDist model capable of segmenting mononucleated cells on endothelial cells | [Link](URL_for_Dataset_5) | [Notebook](URL_for_Notebook_5) |
 | ...        | Brightfield            | ...  | ...         | ...                             | ...                   | ...                    |
-| Model 12   | [Specify Modality] | [Task of Model 12] | [Performance Metrics] | Purpose of Model 12 | [Link](URL_for_Dataset_12) | [Notebook](URL_for_Notebook_12) |
+| Model 12   | [Specify Modality] | [Performance Metrics] | Purpose of Model 12 | [Link](URL_for_Dataset_12) | [Notebook](URL_for_Notebook_12) |
 
 
 # Deep learning artificial labeling models
