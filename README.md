@@ -6,7 +6,7 @@ Associated with the publication "Quantitative analysis of pancreatic cancer cell
 
 
 
-| Model Name      | Purpose                | Training Dataset Link                             | Training Notebook Link                       |
+| Model Name      | Purpose and associated figure                | Training Dataset Link                             | Training Notebook Link                       |
 |-----------------|------------------------|---------------------------------------------------|----------------------------------------------|
 | Model 1         | Purpose of Model 1     | [Link](URL_for_Dataset_1)          | [Notebook](URL_for_Notebook_1)   |
 | Model 2         | Purpose of Model 2     | [Link](URL_for_Dataset_2)          | [Notebook](URL_for_Notebook_2)   |
