@@ -4,7 +4,8 @@ Associated with the publication "Quantitative analysis of pancreatic cancer cell
 
 
 
-#Deep learning segmentation models
+# Deep learning segmentation models
+------------------
 
 | Model Name | Imaging Modality | Performance | Purpose and Associated Figure | Training Dataset Link | Training Notebook Link |
 |------------|------------------|-------------|-------------------------------|-----------------------|------------------------|
