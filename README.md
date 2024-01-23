@@ -18,4 +18,7 @@ Associated with the publication "Quantitative analysis of pancreatic cancer cell
 | Model 12   | [Specify Modality] | [Task of Model 12] | [Performance Metrics] | Purpose of Model 12 | [Link](URL_for_Dataset_12) | [Notebook](URL_for_Notebook_12) |
 
 
-#Deep learning artificial labeling models
+# Deep learning artificial labeling models
+------------------
+| Model Name | Performance | Purpose and Associated Figure | Training Dataset Link | Training Notebook Link |
+|------------|-------------|-------------------------------|-----------------------|------------------------|
