@@ -9,7 +9,7 @@ Associated with the publication "Quantitative analysis of pancreatic cancer cell
 
 | Model Name | Imaging Modality | Performance | Purpose and Associated Figure | Training Dataset Link | Training Notebook Link |
 |------------|------------------|-------------|-------------------------------|-----------------------|------------------------|
-| Model 1    | Brightfield      |  [Performance Metrics] | StarDist model to detect cancer cells in BSA-coated channels. Used to measure perfusion speed inside the channels (Fig S1). | [Link](https://zenodo.org/records/4091474) | [StarDist 2D Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#segmentation-networks) |
+| Model 1    | Brightfield      |  [Performance Metrics] | StarDist model to detect cancer cells in BSA-coated channels. Used to measure perfusion speed inside the channels (Fig S1). | [Link](https://zenodo.org/records/4034939) | [StarDist 2D Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#segmentation-networks) |
 | Model 2    | Fluorescence     | [Performance Metrics] | StarDist model to detect cancer cells from fixed samples. Used in Fig. 1 to count the number of attached cells | [Link] | [StarDist 2D Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#segmentation-networks) |
 | Model 3    | Brightfield | [Performance Metrics] | StarDist model capable of segmenting cancer cells on endothelial cells | [Link] | [StarDist 2D Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#segmentation-networks) |
 | Model 4    | Brightfield | [Performance Metrics] | StarDist model capable of segmenting neutrophils on endothelial cells | [Link] | [StarDist 2D Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#segmentation-networks) |
