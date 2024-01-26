@@ -13,7 +13,7 @@ Associated with the publication "Quantitative analysis of pancreatic cancer cell
 | Model 2    | Fluorescence     | [Performance Metrics] | StarDist model to detect cancer cells from fixed samples. Used in Fig. 1 to count the number of attached cells | [Link] | [StarDist 2D Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#segmentation-networks) |
 | Model 3    | Brightfield | [Performance Metrics] | StarDist model capable of segmenting cancer cells on endothelial cells | [Link](10.5281/zenodo.10572122) | [StarDist 2D Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#segmentation-networks) |
 | Model 4    | Brightfield | [Performance Metrics] | StarDist model capable of segmenting neutrophils on endothelial cells | [Link] | [StarDist 2D Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#segmentation-networks) |
-| Model 5    | Brightfield | [Performance Metrics] | StarDist model capable of segmenting mononucleated cells on endothelial cells | [Link] | [StarDist 2D Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#segmentation-networks) |
+| Model 5    | Brightfield | [Performance Metrics] | StarDist model capable of segmenting mononucleated cells on endothelial cells | [Link](https://zenodo.org/uploads/10572200) | [StarDist 2D Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#segmentation-networks) |
 | Model 6    | Fluorescence     | [Performance Metrics] | StarDist model capable of segmenting endothelial nuclei while ignoring cancer cells | [Link] | [StarDist 2D Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#segmentation-networks) |
 | ...        | ...            | ...  | ...         | ...                             | ...                   | ...                    |
 
