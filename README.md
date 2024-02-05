@@ -23,6 +23,6 @@ Associated with the publication "Quantitative analysis of pancreatic cancer cell
 ------------------
 | Model Name | Performance | Purpose and Associated Figure | Training Dataset Link | Training Notebook Link |
 |------------|-------------|-------------------------------|-----------------------|------------------------|
-| Model 1    | [Performance Metrics] | BF to Dapi cancer cells | [Link] | [Pix2pix Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#image-to-image-translation-networks) |
-| Model 2    | [Performance Metrics] | BF to Dapi immuno cells | [Link] | [Pix2pix Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#image-to-image-translation-networks) |
+| Model 1    | [Performance Metrics] | BF to Dapi cancer cells | [Link](https://doi.org/10.5281/zenodo.10621667) | [Pix2pix Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#image-to-image-translation-networks) |
+| Model 2    | [Performance Metrics] | BF to Dapi immuno cells | [Link](https://doi.org/110.5281/zenodo.10617565) | [Pix2pix Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#image-to-image-translation-networks) |
 | Model 3    | [Performance Metrics] | BF to PECAM | [Link](https://doi.org/10.5281/zenodo.10611092) | [Pix2pix Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#image-to-image-translation-networks) |
