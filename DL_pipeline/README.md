@@ -10,7 +10,7 @@ The pipeline leverages multiple deep-learning models to process raw microscopy v
 
 The processed data offer insights into cell attachment dynamics, facilitating advanced biological research. 
 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guijacquemet/PDAC_DL/blob/main/CellTracksColab/PDAC_CellTracksColab_General.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guijacquemet/PDAC_DL/blob/main/DL_pipeline/Live_microfluidics_predictions.ipynb)
 
 **Important Consideration:** Due to the substantial size of the dataset discussed in the paper, reanalysis using the free version of Google Colab may be constrained by memory and processing limitations. 
 
