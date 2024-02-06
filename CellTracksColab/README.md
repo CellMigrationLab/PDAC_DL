@@ -49,7 +49,7 @@ This notebook is specifically designed to facilitate the reproduction of plots f
 
 - **Customizable Plotting Options:** Users are provided with the flexibility to select and replot various track metrics according to their interests. This feature allows for personalized exploration beyond the analysis presented in the paper, catering to specific investigative needs.
 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guijacquemet/PDAC_DL/blob/main/CellTracksColab/PDAC_CellTracksColab_General.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guijacquemet/PDAC_DL/blob/main/CellTracksColab/PDAC_CellTracksColab_Plot_Arrest_Profiles.ipynb)
 
 
 
