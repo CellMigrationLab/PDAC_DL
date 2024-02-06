@@ -1,11 +1,43 @@
 # PDAC_DL
-Associated with the publication "Quantitative analysis of pancreatic cancer cell attachment to endothelial cells"
 
+This repository contains code and documentation associated with the manuscript entitled "Quantitative Analysis of Pancreatic Cancer Cell Attachment to Endothelial Cells."
+
+In this study, we developed an advanced image analysis pipeline to examine how circulating cells interact with endothelial cells. The pipeline encompasses several critical steps:
+
+1. **Deep Learning Pipeline for Image Processing**:
+   - Brightfield videos were processed using a deep learning (DL) pipeline, enabling us to segment the circulating cells and predict and segment useful landmarks on the endothelial monolayer.
+   - The DL pipeline is detailed and available [here](link).
+   - The DL models used, along with their training datasets, are listed [here](https://github.com/CellMigrationLab/PDAC_DL/edit/main/README.md#deep-learning-segmentation-models).
+   - This pipeline was created by integrating multiple [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic) notebooks.
+
+2. **Tracking Circulating Cells**:
+   - Circulating cells were tracked using [TrackMate](https://imagej.net/plugins/trackmate/) and the label detector, as described in our manuscript.
+   - Additional information regarding the TrackMate label detector is available [here](LINK).
+
+3. **Compilation of Tracks**:
+   - The tracks were compiled and processed using a modified version of [CellTracksColab](https://github.com/CellMigrationLab/celltrackscollab).
+   - Details on the analysis and the modified notebooks can be found [here](LINK).
+   - The original CellTracksColab project is hosted [here](https://github.com/CellMigrationLab/celltrackscollab).
+
+## Citation
+
+If you find the resources or code in this repository useful for your projects, please cite our paper:
+
+*Quantitative Analysis of Pancreatic Cancer Cell Attachment to Endothelial Cells*
+
+Gautier Follain, Sujan Ghimire*, Joanna Pylvänäinen*, Camilo Guzmàn, James RW Conway, Marko Salmi, Johanna Ivaska#, Guillaume Jacquemet#.
+
+*For an accurate citation format, please take a look at the publication details once the paper is available.*
+
+---
 
 
 
 # Deep learning segmentation models
 ------------------
+
+Here we list the key model used in the paper as well as their respective training datasets
+
 
 | Model Name | Imaging Modality | Performance | Purpose and Associated Figure | Training Dataset Link | Training Notebook Link |
 |------------|------------------|-------------|-------------------------------|-----------------------|------------------------|
