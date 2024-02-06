@@ -22,8 +22,8 @@ This notebook serves as the primary tool for loading and compiling tracking data
 
 ## Usage Instructions
 
-For detailed instructions on how to use these notebooks, including required libraries, data formats, and analysis workflows, please refer to the documentation within each notebook. Users are encouraged to install necessary dependencies and review the README file in the GitHub repository for an optimal setup.
+For detailed instructions on how to use these notebooks, including required libraries, data formats, and analysis workflows, please refer to the documentation within each notebook. 
 
 ## Contribution
 
-Contributors are welcome to enhance the CellTracksColab project by proposing new features, reporting issues, or suggesting improvements through the project's GitHub repository. Your insights and feedback are valuable to the ongoing development and refinement of this analytical toolset.
+Notebooks were written by Guillaume Jacquemet. Further contribution are welcome.
