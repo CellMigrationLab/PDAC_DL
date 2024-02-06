@@ -1,6 +1,6 @@
-# PDAC_DL
+# PDAC DL
 
-This repository contains code and documentation associated with the manuscript entitled "Quantitative Analysis of Pancreatic Cancer Cell Attachment to Endothelial Cells."
+This repository contains code and documentation associated with the manuscript "Quantitative Analysis of Pancreatic Cancer Cell Attachment to Endothelial Cells."
 
 In this study, we developed an advanced image analysis pipeline to examine how circulating cells interact with endothelial cells. The pipeline encompasses several critical steps:
 
@@ -16,7 +16,7 @@ In this study, we developed an advanced image analysis pipeline to examine how c
 
 3. **Compilation of Tracks**:
    - The tracks were compiled and processed using a modified version of [CellTracksColab](https://github.com/CellMigrationLab/celltrackscollab).
-   - Details on the analysis and the modified notebooks can be found [here](LINK).
+   - Details on the analysis and the modified notebooks can be found [here](https://github.com/CellMigrationLab/PDAC_DL/tree/main/CellTracksColab#pdac-celltrackscolab).
    
 
 ## Citation
@@ -27,7 +27,7 @@ If you find the resources or code in this repository useful for your projects, p
 
 Gautier Follain, Sujan Ghimire*, Joanna Pylvänäinen*, Camilo Guzmàn, James RW Conway, Marko Salmi, Johanna Ivaska#, Guillaume Jacquemet#.
 
-*For an accurate citation format, please take a look at the publication details once the paper is available.*
+*For an accurate citation format, please look at the publication details once the paper is available.*
 
 ---
 
@@ -36,7 +36,7 @@ Gautier Follain, Sujan Ghimire*, Joanna Pylvänäinen*, Camilo Guzmàn, James RW
 # Deep learning segmentation models
 ------------------
 
-Here we list the key model used in the paper as well as their respective training datasets
+Here, we list the main models used in the paper and their respective training datasets.
 
 
 | Model Name | Imaging Modality | Performance | Purpose and Associated Figure | Training Dataset Link | Training Notebook Link |
