@@ -72,7 +72,7 @@ This notebook focus on the analysis of cell tracks exhibiting distinct landing p
 
 - **Visualization of Track Parameters:** To aid in the interpretation and presentation of findings, the notebook includes functionality for plotting the computed parameters of the tracks. These visualizations facilitate a clear and intuitive understanding of the data, highlighting key trends and patterns in cell behavior.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guijacquemet/PDAC_DL/blob/main/CellTracksColab/PDAC_CellTracksColab_Track_Clustering.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guijacquemet/PDAC_DL/blob/main/CellTracksColab/PDAC_CellTracksColab_Landing_Tracks.ipynb)
 
 ## Usage Instructions
 
