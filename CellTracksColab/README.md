@@ -58,9 +58,21 @@ This notebook leverages a modified version of Ripley's K function—adapted here
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guijacquemet/PDAC_DL/blob/main/CellTracksColab/PDAC_CellTracksColab_Track_Clustering.ipynb)
 
 
-## Landing Notebook
+## Landing Notebook (in progress)
 
+This notebook focus on the analysis of cell tracks exhibiting distinct landing patterns. Through a detailed examination of track dynamics, this tool provides deep insights into the mechanisms of cell landing, arrest, and interaction with the endothelium. Here's an overview of its functionalities:
 
+### Key Features
+
+- **Track Filtering Based on Instantaneous Speed:** The initial step involves segregating tracks that demonstrate a clear landing pattern by analyzing their instantaneous speed. This process ensures that only tracks relevant to the landing behavior are included for detailed analysis.
+
+- **Measurement of Track Parameters:** Once filtered, the notebook facilitates the measurement of a range of track parameters. 
+
+- **Proximity Analysis to Endothelial Features:** A unique feature of this notebook is its ability to measure the shortest distance of each track from previously segmented features, including endothelial cell nuclei and cell junctions. This analysis is pivotal in understanding the spatial relationships and interactions between circulating cells and the endothelium.
+
+- **Visualization of Track Parameters:** To aid in the interpretation and presentation of findings, the notebook includes functionality for plotting the computed parameters of the tracks. These visualizations facilitate a clear and intuitive understanding of the data, highlighting key trends and patterns in cell behavior.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guijacquemet/PDAC_DL/blob/main/CellTracksColab/PDAC_CellTracksColab_Track_Clustering.ipynb)
 
 ## Usage Instructions
 
