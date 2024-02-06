@@ -23,7 +23,7 @@ This notebook is specifically designed to facilitate the reproduction of plots f
 
 ### General Notebook  ✅
 
-This notebook serves as the primary tool for loading and compiling tracking data. It also includes functionalities for calculating additional tracking metrics, such as the Forward Motion Index (FMI). The notebook is designed to offer a comprehensive overview of the dataset.
+This notebook was used for loading and compiling the tracking data. It also includes functionalities for calculating additional tracking metrics, such as the Forward Motion Index (FMI). The notebook is designed to offer a comprehensive overview of the dataset.
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guijacquemet/PDAC_DL/blob/main/CellTracksColab/PDAC_CellTracksColab_General.ipynb)
 
