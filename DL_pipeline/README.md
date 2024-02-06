@@ -39,7 +39,7 @@ A comprehensive list of deep learning models and the training dataset utilized i
    - The fake nuclei and junction images are merged and used to segment endothelial cells with the Cellpose (Cyto2 model).
 
 8. **Outline Generation**:
-   - The outlines of endothelial cells are generated from the predicted masks. (This step requires additional input to complete the description.)
+   - The outlines of endothelial cells are generated from the predicted masks. This step is performed using [pyclesperanto](https://github.com/clEsperanto/pyclesperanto/)
 
 ## Usage
 
