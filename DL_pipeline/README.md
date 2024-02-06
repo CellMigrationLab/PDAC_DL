@@ -8,7 +8,11 @@ This pipeline is based on and combines multiple notebooks from the [ZeroCostDL4M
 
 The pipeline leverages multiple deep-learning models to process raw microscopy videos, segmenting circulating cells and identifying endothelial cell nuclei and junctions. It utilizes state-of-the-art models like StarDist for segmentation and pix2pix for artificial labeling.
 
-The processed data offer insights into cell attachment dynamics, facilitating advanced biological research. Please take a look at the [Google Colab notebook](LINK) for detailed code and usage instructions.
+The processed data offer insights into cell attachment dynamics, facilitating advanced biological research. 
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guijacquemet/PDAC_DL/blob/main/CellTracksColab/PDAC_CellTracksColab_General.ipynb)
+
+**Important Consideration:** Due to the substantial size of the dataset discussed in the paper, reanalysis using the free version of Google Colab may be constrained by memory and processing limitations. 
 
 ## Deep Learning Models and Dataset
 
