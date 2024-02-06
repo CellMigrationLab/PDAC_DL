@@ -10,11 +10,9 @@ The CellTracksColab includes several Jupyter notebooks, each tailored to specifi
 
 ### General Notebook
 
-This notebook serves as the primary tool for loading and compiling tracking data. It also includes functionalities for calculating additional tracking metrics, such as the Flow Motion Index (FMI). The notebook is designed to offer a comprehensive overview of the dataset and facilitate preliminary analyses.
+This notebook serves as the primary tool for loading and compiling tracking data. It also includes functionalities for calculating additional tracking metrics, such as the Forward Motion Index (FMI). The notebook is designed to offer a comprehensive overview of the dataset.
 
-- **Access the Notebook:** Click the badge below to open the General Notebook in Google Colab, enabling direct interaction with the analysis environment.
-
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guijacquemet/PDAC_DL/blob/main/CellTracksColab/PDAC_CellTracksColab_General.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guijacquemet/PDAC_DL/blob/main/CellTracksColab/PDAC_CellTracksColab_General.ipynb)
 
 ### Additional Notebooks
 
