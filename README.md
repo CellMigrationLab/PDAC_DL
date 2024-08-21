@@ -15,7 +15,7 @@ In this study, we developed an advanced image analysis pipeline to examine how c
    - Additional information regarding the TrackMate label detector is available [here](https://imagej.net/plugins/trackmate/detectors/trackmate-label-image-detector).
 
 3. **Compilation of Tracks**:
-   - The tracks were compiled and processed using a modified version of [CellTracksColab](https://github.com/CellMigrationLab/celltrackscollab).
+   - The tracks were compiled and processed using a modified version of [CellTracksColab](https://github.com/CellMigrationLab/CellTracksColab).
    - Details on the analysis and the modified notebooks can be found [here](https://github.com/CellMigrationLab/PDAC_DL/tree/main/CellTracksColab#pdac-celltrackscolab).
    
 
