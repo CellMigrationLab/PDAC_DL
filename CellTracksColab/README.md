@@ -4,18 +4,6 @@ The CellTracksColab notebooks have been adapted to analyze tracking data feature
 
 The CellTracksColab project repository: [CellMigrationLab/CellTracksColab](https://github.com/CellMigrationLab/CellTracksColab).
 
-
-## Plot Notebook ✅
-
-This notebook is specifically designed to facilitate the reproduction of plots featured in the paper, allowing for an in-depth examination of the tracking data. It is equipped with the following key features:
-
-- **Direct Data Download from Zenodo:** The notebook enables users to seamlessly download the tracking data directly from Zenodo, ensuring easy access to the necessary datasets for analysis without manual data handling.
-
-- **Customizable Plotting Options:** Users can select and replot various track metrics according to their interests. This feature allows for personalized exploration beyond the analysis presented in the paper, catering to specific investigative needs.
-
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guijacquemet/PDAC_DL/blob/main/CellTracksColab/PDAC_CellTracksColab_Plots.ipynb)
-
-
 ## General Notebook  ✅
 
 This notebook was used for loading and compiling the tracking data. It also includes functionalities for calculating additional tracking metrics, such as the Forward Motion Index (FMI). The notebook is designed to offer a comprehensive overview of the dataset.
