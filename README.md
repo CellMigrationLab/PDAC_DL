@@ -68,6 +68,6 @@ Here, we list the main models used in the paper and their respective training da
 ------------------
 | Model Name | Performance | Purpose and Associated Figure | Training Dataset Link | Training Notebook Link |
 |------------|-------------|-------------------------------|-----------------------|------------------------|
-| Model 1    | SSIM = 0.755 <br> lpips = 0.120 | BF to Dapi cancer cells | [Link](https://doi.org/10.5281/zenodo.10621667) | [Pix2pix Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#image-to-image-translation-networks) |
+| pix2pix_HUVEC_nuclei_cancer_cells_dataset | SSIM = 0.755 <br> lpips = 0.120 | BF to Dapi cancer cells | [Link](https://doi.org/10.5281/zenodo.10621667) | [Pix2pix Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#image-to-image-translation-networks) |
 | Model 2    | SSIM = 0.756 <br> lpips = 0.130 | BF to Dapi immuno cells | [Link](https://doi.org/110.5281/zenodo.10617565) | [Pix2pix Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#image-to-image-translation-networks) |
 | Model 3    | SSIM = 0.270 <br> lpips = 0.360 | BF to PECAM | [Link](https://doi.org/10.5281/zenodo.10611092) | [Pix2pix Notebook](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#image-to-image-translation-networks) |
