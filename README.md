@@ -24,7 +24,7 @@ In this study, we developed an advanced image analysis pipeline to examine how c
       - Landing Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guijacquemet/PDAC_DL/blob/main/CellTracksColab/PDAC_CellTracksColab_Landing_Tracks.ipynb)
     
 4. **Other**:
-   - The code used to perform the Analysis of Cell Attachment Patterns described in the paper is available [here](https://github.com/CellMigrationLab/PDAC_DL/tree/main/CellTracksColab#pdac-celltrackscolab).
+   - The code used to perform the Analysis of Cell Attachment Patterns described in the paper is available [here](https://github.com/CellMigrationLab/PDAC_DL/tree/main/CellAttachmentSimulation).
    - Analyzing Cell Attachment Patterns: Simulated vs Observed Marker Overlaps Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guijacquemet/PDAC_DL/blob/main/CellTracksColab/PDAC_CellTracksColab_General.ipynb)
    
 
