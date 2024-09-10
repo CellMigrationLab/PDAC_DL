@@ -45,7 +45,7 @@ This notebook leverages a modified version of Ripley's K function—adapted here
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guijacquemet/PDAC_DL/blob/main/CellTracksColab/PDAC_CellTracksColab_Track_Clustering.ipynb)
 
 
-## Landing Notebook (in progress)
+## Landing Notebook ✅
 
 This notebook focuses on the analysis of cell tracks exhibiting distinct landing patterns. Through a detailed examination of track dynamics, this tool provides deep insights into the mechanisms of cell landing, arrest, and interaction with the endothelium. Here's an overview of its functionalities:
 
