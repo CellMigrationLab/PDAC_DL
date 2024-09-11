@@ -23,7 +23,7 @@ Macro location: [https://github.com/CellMigrationLab/PDAC_DL/blob/main/Fiji_macr
 2. **Step 2**: Select the directory containing the corresponding label images.
 3. **Step 3**: Select the directory where you want to save the final processed masks.
 4. **Step 4**: The macro will overlay the PECAM images with the mask boundaries and prompt you to inspect the results.
-5. **Step 5**: Use the **Channels Tool** to inspect and improve the boundaries if necessary, then click "OK" when satisfied.
+5. **Step 5**: Use the **Channels Tool** and the **Drawing Tools** to inspect and improve the boundaries if necessary, then click "OK" when satisfied.
 6. **Step 6**: The macro will automatically process the masks and save them in the output directory.
 
 ## Requirements
