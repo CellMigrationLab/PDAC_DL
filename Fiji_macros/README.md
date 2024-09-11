@@ -2,7 +2,7 @@
 
 ## Description
 
-This macro automates the process of analyzing distances between two sets of images (Channel 1 - C1 and Channel 2 - C2), measuring their properties, and merging the two channels for visualization. It uses the DiAna_Analyse plugin for distance analysis between corresponding C1 and C2 images. The results of the analysis are saved as CSV files, and the merged images are saved as TIFF files for further review.
+This macro automates the process of analyzing distances between two sets of label images (Channel 1 - C1 and Channel 2 - C2), measuring their properties, and merging the two channels for visualization. It uses the DiAna_Analyse plugin for distance analysis between corresponding C1 and C2 label images. The results of the analysis are saved as CSV files, and the merged images are saved as TIFF files for further review.
 
 ## Requirements
 
@@ -19,9 +19,9 @@ You can install these plugins through Fiji's updater:
 
 ### Input Data Preparation
 
-1. **Channel 1 (C1) Images**: Prepare a folder containing all your images for Channel 1 (e.g., nuclear or cell images).
-2. **Channel 2 (C2) Images**: Prepare a separate folder containing the corresponding Channel 2 images (e.g., protein or marker images).
-3. Ensure that both the C1 and C2 folders contain images with corresponding filenames, as the macro processes them in pairs.
+1. **Channel 1 (C1) Label Images**: Prepare a folder containing all your label images for Channel 1 (e.g., nuclear or cell label images).
+2. **Channel 2 (C2) Label Images**: Prepare a separate folder containing the corresponding label images for Channel 2 (e.g., protein or marker label images).
+3. Ensure that both the C1 and C2 folders contain label images with corresponding filenames, as the macro processes them in pairs.
 
 ### Running the Macro
 
@@ -29,7 +29,7 @@ You can install these plugins through Fiji's updater:
 2. **Open the Macro**: Load the macro into the Fiji/ImageJ editor.
 3. **Run the Macro**: Click on `Run` in the macro editor.
 4. **Select Input Directories**: 
-   - The macro will prompt you to select the folders containing the C1 and C2 images.
+   - The macro will prompt you to select the folders containing the C1 and C2 label images.
 5. **Select Output Directories**: 
    - The macro will ask for directories where the CSV distance results and the merged images will be saved.
 6. The macro will automatically process the images, perform distance analysis, and save the results.
@@ -49,8 +49,8 @@ If the number of images in the C1 and C2 folders does not match, the macro will 
 
 ## Example
 
-1. Place the C1 images (e.g., `image1_C1.tif`, `image2_C1.tif`, ...) in the `C1` folder.
-2. Place the C2 images (e.g., `image1_C2.tif`, `image2_C2.tif`, ...) in the `C2` folder.
+1. Place the C1 label images (e.g., `image1_C1.tif`, `image2_C1.tif`, ...) in the `C1` folder.
+2. Place the C2 label images (e.g., `image1_C2.tif`, `image2_C2.tif`, ...) in the `C2` folder.
 3. Run the macro, select the directories when prompted, and review the generated CSVs and merged TIFF files.
 
 ## Notes
