@@ -4,6 +4,8 @@
 
 This macro automates the process of analyzing distances between two sets of label images (Channel 1 - C1 and Channel 2 - C2), measuring their properties, and merging the two channels for visualization. It uses the DiAna_Analyse plugin for distance analysis between corresponding C1 and C2 labels (edge-to-edge). The results of the analysis are saved as CSV files, and the merged images are saved as TIFF files for further review.
 
+Macro location: [https://github.com/CellMigrationLab/PDAC_DL/blob/main/Fiji_macros/distance_analysis_general.ijm](https://github.com/CellMigrationLab/PDAC_DL/blob/main/Fiji_macros/distance_analysis_general.ijm)
+
 ## Requirements
 
 Before running this macro, ensure that the following plugins are installed in your ImageJ/Fiji setup:
