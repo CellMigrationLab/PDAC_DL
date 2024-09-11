@@ -5,7 +5,7 @@ The **PECAM Mask Processing Tool** is an ImageJ macro designed to refine cell-ce
 
 After adjustments, the macro converts the label boundaries into a binary mask, applies post-processing steps (morphological operations such as closing, and skeletonization), and saves the processed mask as a TIFF file. The final mask represents the refined cell-cell junctions.
 
-Macro location: [https://github.com/CellMigrationLab/PDAC_DL/blob/main/Fiji_macros/distance_analysis_general.ijm](https://github.com/CellMigrationLab/PDAC_DL/blob/main/Fiji_macros/PECAM_mask_processing_tool.ijm)
+Macro location: [https://github.com/CellMigrationLab/PDAC_DL/blob/main/Fiji_macros/PECAM_mask_processing_tool.ijm](https://github.com/CellMigrationLab/PDAC_DL/blob/main/Fiji_macros/PECAM_mask_processing_tool.ijm)
 
 ## Macro Workflow
 
