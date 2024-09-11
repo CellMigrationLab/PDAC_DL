@@ -42,8 +42,3 @@ Macro location: [https://github.com/CellMigrationLab/PDAC_DL/blob/main/Fiji_macr
 - The macro will only save the final processed mask, not the intermediate images.
 - The script works best when the mask and PECAM images are carefully aligned.
 
-
-
-```java
-close("*");
-roiManager("reset");
