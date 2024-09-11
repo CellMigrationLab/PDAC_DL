@@ -1,8 +1,5 @@
 # ImageJ Macro: Distance Analysis
 
-## Author
-Joanna W. Pylvänäinen
-
 ## Description
 
 This macro automates the process of analyzing distances between two sets of images (Channel 1 - C1 and Channel 2 - C2), measuring their properties, and merging the two channels for visualization. It uses the DiAna_Analyse plugin for distance analysis between corresponding C1 and C2 images. The results of the analysis are saved as CSV files, and the merged images are saved as TIFF files for further review.
