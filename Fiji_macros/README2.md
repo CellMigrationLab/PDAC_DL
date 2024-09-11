@@ -1,4 +1,4 @@
-# PECAM Mask Processing Tool
+# ImageJ Macro: PECAM Mask Processing Tool
 
 ## Description
 The **PECAM Mask Processing Tool** is an ImageJ macro designed to refine cell-cell junctions from label images of whole-cell labels and save the corrected junctions as mask images. This macro processes PECAM (Platelet Endothelial Cell Adhesion Molecule) staining images alongside corresponding label images, allowing users to inspect and manually adjust cell boundaries. 
