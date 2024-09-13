@@ -7,7 +7,8 @@ In this study, we developed an advanced image analysis pipeline to examine how c
 1. **Deep Learning Pipeline for Image Processing**:
    - Brightfield videos were processed using a deep learning (DL) pipeline, enabling us to segment the circulating cells and predict and segment useful landmarks on the endothelial monolayer.
    - The DL pipeline is detailed and available [here](https://github.com/CellMigrationLab/PDAC_DL/tree/main/DL_pipeline#deep-learning-based-image-analysis-pipeline).
-   - The DL models used, along with their training datasets, are listed [here](https://github.com/CellMigrationLab/PDAC_DL/blob/main/README.md#deep-learning-segmentation-models).
+   - The segmentation DL models used, along with their training datasets, are listed [here.](https://github.com/CellMigrationLab/PDAC_DL/blob/main/DL_pipeline/segmentation_models.md).
+   - The artificial labeling DL models used, along with their training datasets, are listed [here](https://github.com/CellMigrationLab/PDAC_DL/blob/main/DL_pipeline/artificial_labeling_models.md).
    - This pipeline was created by integrating multiple [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic) notebooks.
 
 2. **Tracking Circulating Cells**:
