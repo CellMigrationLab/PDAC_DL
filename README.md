@@ -13,6 +13,7 @@ In this study, we developed an advanced image analysis pipeline to examine how c
 2. **Tracking Circulating Cells**:
    - Circulating cells were tracked using [TrackMate](https://imagej.net/plugins/trackmate/) and the label detector, as described in our manuscript.
    - Additional information regarding the TrackMate label detector is available [here](https://imagej.net/plugins/trackmate/detectors/trackmate-label-image-detector).
+   - Generated tracking data can be found [here.](https://github.com/CellMigrationLab/PDAC_DL/blob/main/CellTracksColab/tracking_datasets.md) 
 
 3. **Compilation of Tracks**:
    - The tracks were compiled and processed using a modified version of [CellTracksColab](https://github.com/CellMigrationLab/CellTracksColab).
