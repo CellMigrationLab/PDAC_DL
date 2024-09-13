@@ -45,6 +45,8 @@ A comprehensive list of deep learning models and the training dataset utilized i
 8. **Outline Generation**:
    - The outlines of endothelial cells are generated from the predicted masks. This step is performed using [pyclesperanto](https://github.com/clEsperanto/pyclesperanto/)
 
+![image](../figures/PDAC-pipeline-01.png)
+
 ## Usage
 
 To use this pipeline, follow the instructions in the [Google Colab notebook](LINK). The notebook guides you through the process, from video pre-processing to the final segmentation and analysis.
