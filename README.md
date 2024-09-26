@@ -33,17 +33,11 @@ In this study, we developed an advanced image analysis pipeline to examine how c
    - The code used to perform the Analysis of Cell Attachment Patterns described in the paper is available [here](https://github.com/CellMigrationLab/PDAC_DL/tree/main/CellAttachmentSimulation).
    - Analyzing Cell Attachment Patterns: Simulated vs Observed Marker Overlaps Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/PDAC_DL/blob/main/CellAttachmentSimulation/Analyzing_Cell_Attachment_Patterns_Simulated_vs_Observed_Marker_Overlaps.ipynb)
 
-   
+
 
 ## Citation
 
-If you find the resources or code in this repository useful for your projects, please cite our paper:
 
-*Quantitative Analysis of Pancreatic Cancer Cell Attachment to Endothelial Cells*
-
-Gautier Follain, Sujan Ghimire*, Joanna Pylvänäinen*, Camilo Guzmàn, James RW Conway, Marko Salmi, Johanna Ivaska#, Guillaume Jacquemet#.
-
-*For an accurate citation format, please look at the publication details once the paper is available.*
 
 ---
 
