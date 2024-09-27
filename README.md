@@ -37,7 +37,7 @@ In this study, we developed an advanced image analysis pipeline to examine how c
 ### 6. **Other**:
    - The code used to perform the Analysis of Cell Attachment Patterns described in the paper is available [here](https://github.com/CellMigrationLab/PDAC_DL/tree/main/CellAttachmentSimulation).
    - Analyzing Cell Attachment Patterns: Simulated vs Observed Marker Overlaps Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/PDAC_DL/blob/main/CellAttachmentSimulation/Analyzing_Cell_Attachment_Patterns_Simulated_vs_Observed_Marker_Overlaps.ipynb)
-   - The code to distance and intesity analyses and HUVEC monolayer annotation can be found [here](https://github.com/CellMigrationLab/PDAC_DL/tree/main/Analysis_scripts).
+   - The code for distance and intensity analyses and HUVEC monolayer annotation can be found [here](https://github.com/CellMigrationLab/PDAC_DL/tree/main/Analysis_scripts).
 
 
 
