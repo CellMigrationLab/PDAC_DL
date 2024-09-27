@@ -16,7 +16,9 @@ The processed data offer insights into cell attachment dynamics, facilitating ad
 
 ## Deep Learning Models and Dataset
 
-A comprehensive list of deep learning models and the training dataset utilized in this pipeline can be found [here](https://github.com/CellMigrationLab/PDAC_DL?tab=readme-ov-file#pdac_dl).
+A comprehensive list of deep learning models and the training dataset utilized in this pipeline can be found here:
+- [Segmentation models](https://github.com/CellMigrationLab/PDAC_DL/blob/main/DL_pipeline/segmentation_models.md)
+- [Artificial labeling models](https://github.com/CellMigrationLab/PDAC_DL?tab=readme-ov-file#pdac_dl)
 
 ## Pipeline Steps
 
