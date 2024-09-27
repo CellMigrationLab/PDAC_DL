@@ -24,7 +24,7 @@ In this study, we developed an advanced image analysis pipeline to examine how c
       - Track Clustering Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/PDAC_DL/blob/main/CellTracksColab/PDAC_CellTracksColab_Track_Clustering.ipynb)
       - Landing Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/PDAC_DL/blob/main/CellTracksColab/PDAC_CellTracksColab_Landing_Tracks.ipynb)
 
-   -Generated tracking data can be found [here.](https://github.com/CellMigrationLab/PDAC_DL/blob/main/CellTracksColab/tracking_datasets.md) 
+   - Generated tracking data can be found [here.](https://github.com/CellMigrationLab/PDAC_DL/blob/main/CellTracksColab/tracking_datasets.md) 
 
 ### 4. **Cell Adhesion Simulator**:
    - The simulator employs a probabilistic model to simulate cell attachment, where the attachment probability is influenced by key factors such as the adhesion strength of circulating cells, the properties of the endothelial background, and the flow speed.
