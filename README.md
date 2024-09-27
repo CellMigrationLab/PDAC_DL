@@ -1,6 +1,9 @@
 # PDAC DL
 
-This repository contains code and documentation associated with the manuscript "Quantitative Analysis of Pancreatic Cancer Cell Attachment to Endothelial Cells."
+This repository contains code and documentation associated with the manuscript "Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers."
+
+### 0. **Data and code**:
+   - All data and code associated with the manuscript are available in a dedicated [Zenodo community](https://zenodo.org/communities/pdac_dl) 
 
 In this study, we developed an advanced image analysis pipeline to examine how circulating cells interact with endothelial cells. The pipeline encompasses several critical steps:
 
