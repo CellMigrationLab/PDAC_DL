@@ -39,9 +39,11 @@ This repository contains all the code, models, and analysis tools developed for 
    - Analyzing Cell Attachment Patterns: Simulated vs Observed Marker Overlaps Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/PDAC_DL/blob/main/CellAttachmentSimulation/Analyzing_Cell_Attachment_Patterns_Simulated_vs_Observed_Marker_Overlaps.ipynb)
    - The code for distance and intensity analyses and HUVEC monolayer annotation can be found [here](https://github.com/CellMigrationLab/PDAC_DL/tree/main/Analysis_scripts).
 
-
-
 ## Citation
+
+**Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers**  
+Gautier Follain, Sujan Ghimire, Joanna W Pylvänäinen, Monika Vaitkevičiūtė, Diana H Wurzinger, Camilo Guzmán, James RW Conway, Michal Dibus, Sanna Oikari, Kirsi Rilla, Marko Salmi, Johanna Ivaska, Guillaume Jacquemet  
+*bioRxiv* (2024). doi: [10.1101/2024.09.30.615654](https://doi.org/10.1101/2024.09.30.615654)
 
 
 
