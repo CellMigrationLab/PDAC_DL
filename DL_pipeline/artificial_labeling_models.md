@@ -1,4 +1,4 @@
-# Deep learning artificial labeling models
+# Artificial labeling deep learning models
 ------------------
 The models were trained using [ZeroCostDL4Mic Pix2pix Notebooks.](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#image-to-image-translation-networks)
 
