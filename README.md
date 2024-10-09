@@ -37,7 +37,10 @@ This repository contains all the code, models, and analysis tools developed for 
 
 ### 5. **Other**:
    - Analyzing Cell Attachment Patterns: Simulated vs Observed Marker Overlaps Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/PDAC_DL/blob/main/CellAttachmentSimulation/Analyzing_Cell_Attachment_Patterns_Simulated_vs_Observed_Marker_Overlaps.ipynb)
-   - The code for distance and intensity analyses and HUVEC monolayer annotation can be found [here](https://github.com/CellMigrationLab/PDAC_DL/tree/main/Analysis_scripts).
+   - the _PECAM Mask Processing Tool_ is explained [here](https://github.com/CellMigrationLab/PDAC_DL/wiki/PECAM-Mask-Processing-Tool)
+   - the _cd44 HA intesity analysis_ is explained [here](https://github.com/CellMigrationLab/PDAC_DL/wiki/cd44-HA-intesity-analysis)
+   - _Distance analysis_ using the Diana Fiji plugin is explained [here](https://github.com/CellMigrationLab/PDAC_DL/wiki/Distance-Analysis)
+
 
 ## Citation
 
