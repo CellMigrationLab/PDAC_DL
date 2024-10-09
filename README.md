@@ -9,7 +9,7 @@ This repository contains all the code, models, and analysis tools developed for 
 
 ### 1. **Deep Learning Pipeline for Image Processing**:
    - Brightfield videos were processed using a deep learning (DL) pipeline, enabling us to segment the circulating cells and predict and segment useful landmarks on the endothelial monolayer.
-   - The DL pipeline is detailed and available [here](https://github.com/CellMigrationLab/PDAC_DL/tree/main/DL_pipeline#deep-learning-based-image-analysis-pipeline).
+   - The DL pipeline is detailed and available [here](https://github.com/CellMigrationLab/PDAC_DL/wiki/Deep-Learning%E2%80%90based-Image-Analysis-Pipeline).
    - The segmentation DL models used, along with their training datasets, are listed [here](https://github.com/CellMigrationLab/PDAC_DL/wiki/Segmentation-models).
    - The artificial labeling DL models used, along with their training datasets, are listed [here](https://github.com/CellMigrationLab/PDAC_DL/wiki/Artificial-labeling-models).
    - This pipeline was created by integrating multiple [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic) notebooks.
