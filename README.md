@@ -18,7 +18,7 @@ This repository contains all the code, models, and analysis tools developed for 
    - Circulating cells were tracked using [TrackMate](https://imagej.net/plugins/trackmate/) and the label detector, as described in our manuscript.
    - Additional information regarding the TrackMate label detector is available [here](https://imagej.net/plugins/trackmate/detectors/trackmate-label-image-detector).
    - The tracks were compiled and processed using a modified version of [CellTracksColab](https://github.com/CellMigrationLab/CellTracksColab).
-   - Details on the analysis and the modified notebooks can be found [here](https://github.com/CellMigrationLab/PDAC_DL/tree/main/CellTracksColab#pdac-celltrackscolab).
+   - Details on the analysis and the modified notebooks can be found [here](https://github.com/CellMigrationLab/PDAC_DL/wiki/PDAC-CellTracksColab).
 
       - General Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/PDAC_DL/blob/main/CellTracksColab/PDAC_CellTracksColab_General.ipynb)
       - Count Arrested Tracks Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/PDAC_DL/blob/main/CellTracksColab/PDAC_CellTracksColab%20_Arrested_Tracks.ipynb)
