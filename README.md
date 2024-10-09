@@ -32,7 +32,7 @@ This repository contains all the code, models, and analysis tools developed for 
    - The simulator is available on its dedicated GitHub repository: [AdhesionFlowSimulator](https://github.com/CellMigrationLab/AdhesionFlowSimulator).
 
 ### 4. **Statistical analyses**:
-   - The code used to perform the randomization tests and t-tests is available [here](https://github.com/CellMigrationLab/PDAC_DL/tree/main/Statistics) and was modified from  [Plot-Stats](https://github.com/CellMigrationLab/Plot-Stats)
+   - The code used to perform the randomization tests and t-tests is available [here](https://github.com/CellMigrationLab/PDAC_DL/wiki/Statistics) and was modified from  [Plot-Stats](https://github.com/CellMigrationLab/Plot-Stats)
    - Statistical analyses Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/PDAC_DL/blob/main/Statistics/Plot%26Stats_PDAC.ipynb)
 
 ### 5. **Other**:
