@@ -10,8 +10,8 @@ This repository contains all the code, models, and analysis tools developed for 
 ### 1. **Deep Learning Pipeline for Image Processing**:
    - Brightfield videos were processed using a deep learning (DL) pipeline, enabling us to segment the circulating cells and predict and segment useful landmarks on the endothelial monolayer.
    - The DL pipeline is detailed and available [here](https://github.com/CellMigrationLab/PDAC_DL/tree/main/DL_pipeline#deep-learning-based-image-analysis-pipeline).
-   - The segmentation DL models used, along with their training datasets, are listed [here](https://github.com/CellMigrationLab/PDAC_DL/blob/main/DL_pipeline/segmentation_models.md).
-   - The artificial labeling DL models used, along with their training datasets, are listed [here](https://github.com/CellMigrationLab/PDAC_DL/blob/main/DL_pipeline/artificial_labeling_models.md).
+   - The segmentation DL models used, along with their training datasets, are listed [here](https://github.com/CellMigrationLab/PDAC_DL/wiki/Segmentation-models).
+   - The artificial labeling DL models used, along with their training datasets, are listed [here](https://github.com/CellMigrationLab/PDAC_DL/wiki/Artificial-labeling-models).
    - This pipeline was created by integrating multiple [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic) notebooks.
 
 ### 2. **Tracking Circulating Cells**:
@@ -25,7 +25,7 @@ This repository contains all the code, models, and analysis tools developed for 
       - Track Clustering Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/PDAC_DL/blob/main/CellTracksColab/PDAC_CellTracksColab_Track_Clustering.ipynb)
       - Landing Notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/PDAC_DL/blob/main/CellTracksColab/PDAC_CellTracksColab_Landing_Tracks.ipynb)
 
-   - Generated tracking data can be found [here.](https://github.com/CellMigrationLab/PDAC_DL/blob/main/CellTracksColab/tracking_datasets.md) 
+   - Generated tracking data can be found [here.](https://github.com/CellMigrationLab/PDAC_DL/wiki/Tracking-datasets) 
 
 ### 3. **Cell Adhesion Simulator**:
    - The simulator employs a probabilistic model to simulate cell attachment, where the attachment probability is influenced by key factors such as the adhesion strength of circulating cells, the properties of the endothelial background, and the flow speed.
