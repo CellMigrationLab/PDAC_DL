@@ -1,7 +1,8 @@
-# PDAC DL  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13868959.svg)](https://doi.org/10.5281/zenodo.13868959)
+# The FlowVision analysis framework  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13868959.svg)](https://doi.org/10.5281/zenodo.13868959)
 
 
-This repository contains all the code, models, and analysis tools developed for the manuscript "Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers." This repository includes deep learning models, cell tracking tools, statistical analyses, and simulation tools used to study cell adhesion dynamics under flow conditions.
+This repository contains all the code, models, and analysis tools developed for the manuscript "FlowVision reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers
+." This repository includes deep learning models, cell tracking tools, statistical analyses, and simulation tools used in FlowVision to study cell adhesion dynamics under flow conditions.
 
 
 ### 0. **Data and code**:
