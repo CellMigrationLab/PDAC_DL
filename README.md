@@ -45,7 +45,8 @@ This repository contains all the code, models, and analysis tools developed for 
 
 ## Citation
 
-[Follain, G., Ghimire, S., Pylvänäinen, J.W. et al. Fast label-free live imaging with FlowVision reveals key principles of cancer cell arrest on endothelial monolayers. EMBO J (2026). https://doi.org/10.1038/s44318-025-00678-9](https://link.springer.com/article/10.1038/s44318-025-00678-9)
+Follain, G., Ghimire, S., Pylvänäinen, J.W. et al. Fast label-free live imaging with FlowVision reveals key principles of cancer cell arrest on endothelial monolayers. EMBO J (2026). https://doi.org/10.1038/s44318-025-00678-9
+[Link](https://link.springer.com/article/10.1038/s44318-025-00678-9)
 
 
 
