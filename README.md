@@ -45,9 +45,7 @@ This repository contains all the code, models, and analysis tools developed for 
 
 ## Citation
 
-**Fast label-free live imaging reveals key roles of flow dynamics and CD44-HA interaction in cancer cell arrest on endothelial monolayers**  
-Gautier Follain, Sujan Ghimire, Joanna W Pylvänäinen, Monika Vaitkevičiūtė, Diana H Wurzinger, Camilo Guzmán, James RW Conway, Michal Dibus, Sanna Oikari, Kirsi Rilla, Marko Salmi, Johanna Ivaska, Guillaume Jacquemet  
-*bioRxiv* (2024). doi: [10.1101/2024.09.30.615654](https://doi.org/10.1101/2024.09.30.615654)
+[Follain, G., Ghimire, S., Pylvänäinen, J.W. et al. Fast label-free live imaging with FlowVision reveals key principles of cancer cell arrest on endothelial monolayers. EMBO J (2026). https://doi.org/10.1038/s44318-025-00678-9](https://link.springer.com/article/10.1038/s44318-025-00678-9)
 
 
 
